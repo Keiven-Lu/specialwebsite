@@ -1,0 +1,13 @@
+Sepcialized Search Engine
+//https://www.shodan.io/    --> Allows you to search for specific types and versions of servers, networking equipment, industrial control systems, and IoT devices.
+//https://search.censys.io/ --> Focuses on internet-connected hosts, websites, certificates, and other internet assets. Enumerating domains in use, auditing open ports and services, and discovering rogue assets within a network.
+//https://www.virustotal.com/gui/ --> Virus Scanning
+Vulnerabilities and Exploits
+//https://haveibeenpwned.com/ --> scans email to see if it appear in a data breach
+//https://www.cve.org/ --> Search CVE(Common Vulnerabilities and Exposures)
+//https://nvd.nist.gov/ --> National Vulnerability Database
+//https://www.exploit-db.com/ --> A lists of exploit codes from various authors
+
+
+
+
